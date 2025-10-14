@@ -10,7 +10,6 @@
 207.210.107.0/24
 180.181.91.0/24
 208.185.7.0/24
-77.90.185.0/24
 
 # https://raw.githubusercontent.com/wallacebrf/dns/refs/heads/main/asn_block1.1.txt
 1.0.0.0/24
