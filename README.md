@@ -8,13 +8,13 @@ Welcome to the official GitHub repository for 4IP Threat Feeds. This repository 
 - Source Categorization: Our feeds cover a wide range of threats, including botnets, command-and-control servers, malware distribution sites, phishing domains, and other malicious actors.
 
 ## Threat Feeds explained
-- blocklist-incoming-ip-asn.txt : This feed imports external threatfeeds (https://github.com/wallacebrf/dns/) to block known dangerous ASN ip blocks for incoming IP traffic.
-- blocklist-incoming-ip-benelux.txt : This feed imports external threatfeeds (https://github.com/romainmarcoux/malicious-ip) to block known dangerous IP blocks from Netherlands, Belgium and Luxemburg for incoming IP traffic.
-- blocklist-incoming-ip-eu-west.txt : This feed imports external threatfeeds (https://github.com/romainmarcoux/malicious-ip) to block known dangerous IP blocks from Netherlands, Belgium, Luxemburg, Germany, France and the UK for incoming IP traffic.
-- blocklist-incoming-ip-high-security.txt : This feed imports manual list and MANY external threatfeeds from various sources for incoming IP traffic (this contains and blocks a lot of IP's).
-- blocklist-incoming-ip.txt : This feed imports some manual lists and external threatfeeds from various sources for incoming IP traffic.
-- blocklist-outgoing-dns.txt : This feed imports some manual lists and external threatfeeds from various sources for outgoing DNS traffic.
-- blocklist-outgoing-ip.txt : This feed imports some manual lists and external threatfeeds from various sources for outgoing IP traffic.
+- **blocklist-incoming-ip-asn.txt** : This feed imports external threatfeeds (https://github.com/wallacebrf/dns/) to block known dangerous ASN ip blocks for incoming IP traffic.
+- **blocklist-incoming-ip-benelux.txt** : This feed imports external threatfeeds (https://github.com/romainmarcoux/malicious-ip) to block known dangerous IP blocks from Netherlands, Belgium and Luxemburg for incoming IP traffic.
+- **blocklist-incoming-ip-eu-west.txt** : This feed imports external threatfeeds (https://github.com/romainmarcoux/malicious-ip) to block known dangerous IP blocks from Netherlands, Belgium, Luxemburg, Germany, France and the UK for incoming IP traffic.
+- **blocklist-incoming-ip-high-security.txt** : This feed imports manual list and MANY external threatfeeds from various sources for incoming IP traffic (this contains and blocks a lot of IP's).
+- **blocklist-incoming-ip.txt** : This feed imports some manual lists and external threatfeeds from various sources for incoming IP traffic.
+- **blocklist-outgoing-dns.txt** : This feed imports some manual lists and external threatfeeds from various sources for outgoing DNS traffic.
+- **blocklist-outgoing-ip.txt** : This feed imports some manual lists and external threatfeeds from various sources for outgoing IP traffic.
 
 ## Usage
 Each feed is available in formats suitable for common network security tools and platforms. Please review the repository documentation for details on feed integration, configuration guidelines, and update schedules.
