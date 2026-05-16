@@ -48970,6 +48970,7 @@
 98.64.94.109
 98.98.200.148
 # https://raw.githubusercontent.com/romainmarcoux/malicious-ip/refs/heads/main/malicious-ip-by-country/full-be-aa.txt
+103.109.244.103
 103.109.244.105
 103.109.244.113
 103.109.244.115
